@@ -343,21 +343,22 @@ ul#nav li.current a { color: red; }
   	-moz-animation: wordpress 2s ease;
   	-webkit-animation: wordpress 2s ease;
 }
+.react{
+   width: 80%;
+   -moz-animation: jquery 2s ease;
+   -webkit-animation: jquery 2s ease;
+}
 .nodejs {
-  	width: 70%;
+  	width: 60%;
   	-moz-animation: css 2s ease;
   	-webkit-animation: css 2s ease;
 }
 .expressjs {
-  	width: 70%;
+  	width: 60%;
   	-moz-animation: html5 2s ease;
   	-webkit-animation: html5 2s ease;
 }
-.react{
-  	width: 65%;
-  	-moz-animation: jquery 2s ease;
-  	-webkit-animation: jquery 2s ease;
-}
+
 .row-width{
    width: 50%;
    
